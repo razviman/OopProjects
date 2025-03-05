@@ -1,0 +1,13 @@
+# ninja log v5
+21	1770	7388918396000695	CMakeFiles/atm_sd.dir/atm.cpp.obj	89267f76b646da87
+27	331	7387967587351681	CMakeFiles/atm_sd.dir/pereche.cpp.obj	d69735f2a07ab3d1
+1770	2246	7388918400714001	atm_sd.exe	f2f5516527a40f27
+9	483	7388003448680409	CMakeFiles/atm_sd.dir/colectie.cpp.obj	88c62a4c4f56e7b4
+2	254	7388003608011247	CMakeFiles/atm_sd.dir/vectordinamic.cpp.obj	3fae934996ae622e
+3	480	7387982838465792	CMakeFiles/atm_sd.dir/main.cpp.obj	b668afb3716f1ab3
+27	1112	7387916286745063	CMakeFiles/atm_sd.dir/tranzactie.cpp.obj	5445d29edd212e74
+4	523	7387990463755192	CMakeFiles/atm_sd.dir/UI.cpp.obj	f635aa553d3438b
+3	635	7391021177525191	CMakeFiles/atm_sd.dir/UI.cpp.obj	f635aa553d3438b
+635	863	7391021179789400	atm_sd.exe	f2f5516527a40f27
+51	803	7628938919563114	CMakeFiles/atm_sd.dir/atm.cpp.obj	89267f76b646da87
+803	1142	7628938922945970	atm_sd.exe	f2f5516527a40f27
